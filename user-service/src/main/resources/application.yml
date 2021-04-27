@@ -1,5 +1,6 @@
 server:
-  port: 9001
+  port: 0 #랜덤
+  #port: 9001
 
 spring:
   application:
